@@ -15,4 +15,3 @@ jobs:
 
       - name: Display Message
         run: echo "Hello, GitHub Actions!"
-git add .
